@@ -1,3 +1,3 @@
 # hello-world
 project
-This is new ost lab
+This is OST LAB in project modules
